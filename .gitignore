@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# data
+ディズニーシー/
+ディズニーランド/
+富士急ハイランド/
+
+# Secrets
+config.py
+token.json
+
+# OS / Editor
+.DS_Store
+.vscode/
